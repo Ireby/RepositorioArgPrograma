@@ -1,0 +1,24 @@
+body{
+    background-image: url('https://imgs.search.brave.com/0N152gYt8_Zcu_QcrriycXL4UI9gh6MVXWdcUBLaLFg/rs:fit:1200:1024:1/g:ce/aHR0cDovLzQuYnAu/YmxvZ3Nwb3QuY29t/Ly1yT1FJbUhsYUdF/cy9UZHF1SGc1QW9m/SS9BQUFBQUFBQWhN/US92SVhuZWxaNU5t/Yy9zMTYwMC9JbWFn/ZW5lcytmYW50YXN0/aWNhcys1Ni5qcGc');
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.title{
+ text-align: center;
+ color:aqua ;
+ text-shadow:  2px 2px #022e42; 
+ font-family: Georgia, 'Times New Roman', Times, serif
+}
+.text{
+    display: block;
+    align-content: center;
+    background-color: #acdcf276;
+    border-radius: 4px;
+    gap: 50px;
+}
